@@ -11,5 +11,7 @@ SelectClass:org.openqa.Selenium.support.ui.Select;
 JavaScriptExecutor
 AutoIT
 MaxInstance vs MaxSession
+ApachePOI:JXl (handling MSexcelFiles)
+PageObjectModel
 JDBC
 Using Java Programming Language
