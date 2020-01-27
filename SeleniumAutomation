@@ -5,7 +5,8 @@ Exceptions
 OOP concepts
 Method overloading
 Method overriding
-ActionClass
+ActionClass:org.openqa.Selenium.interactionsActionClass
+Keyboard & mouse events methods
 SelectClass
 JavaScriptExecutor
 AutoIT
