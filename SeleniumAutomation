@@ -7,7 +7,7 @@ Method overloading
 Method overriding
 ActionClass:org.openqa.Selenium.interactionsActionClass
 Keyboard & mouse events methods
-SelectClass
+SelectClass:org.openqa.Selenium.support.ui.Select;
 JavaScriptExecutor
 AutoIT
 MaxInstance vs MaxSession
