@@ -20,3 +20,4 @@ screenshot of entire page
 screenshot of a web element
 File screenshotFile = (TakeScreenshot) driver;
 fileUtils.copyFile(screenshotFile, newFile(fileName, path));
+one more
