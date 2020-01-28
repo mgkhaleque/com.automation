@@ -5,6 +5,7 @@ Exceptions
 OOP concepts
 Method overloading
 Method overriding
+polymorphism
 ActionClass:org.openqa.Selenium.interactionsActionClass
 Keyboard & mouse events methods
 SelectClass:org.openqa.Selenium.support.ui.Select;
@@ -17,3 +18,6 @@ JDBC
 Using Java Programming Language
 screenshot of entire page
 screenshot of a web element
+File screenshotFile = (TakeScreenshot) driver;
+fileUtils.copyFile(screenshotFile, newFile(fileName, path));
+one more
