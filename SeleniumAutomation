@@ -22,3 +22,7 @@ File screenshotFile = (TakeScreenshot) driver;
 fileUtils.copyFile(screenshotFile, newFile(fileName, path));
 one more
 from compare [drag&drop (source, target)]to master (base)
+JDBC API
+connect mySQL using JDBC API
+connect MSSQL using JDBC API
+connect DB2 using JDBC API
