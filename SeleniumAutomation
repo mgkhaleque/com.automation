@@ -1,4 +1,4 @@
-SeleniumAutomation
+SeleniumAutomation 
 TryCatch blocks
 ifElse argument
 Exceptions
@@ -15,3 +15,5 @@ ApachePOI:JXl (handling MSexcelFiles)
 PageObjectModel
 JDBC
 Using Java Programming Language
+screenshot of entire page
+screenshot of a web element
