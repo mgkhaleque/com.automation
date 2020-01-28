@@ -5,6 +5,7 @@ Exceptions
 OOP concepts
 Method overloading
 Method overriding
+polymorphism
 ActionClass:org.openqa.Selenium.interactionsActionClass
 Keyboard & mouse events methods
 SelectClass:org.openqa.Selenium.support.ui.Select;
